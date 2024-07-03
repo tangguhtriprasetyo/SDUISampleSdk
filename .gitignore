@@ -84,3 +84,4 @@ output.json
 ehthumbs.db
 Thumbs.db
 .cxx
+/gradle/wrapper/gradle-wrapper.properties
