@@ -24,7 +24,7 @@ object ServerDrivenUISdk {
 
         LaunchedEffect(Unit) {
             while (counter < 100) {
-                delay(10)
+                delay(5)
                 counter++
             }
         }
